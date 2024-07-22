@@ -1,5 +1,5 @@
 ## Yuray 🦋
-[![Discord Presence](https://lanyard.cnrad.dev/api/786298938915422219?idleMessage=EzCord%20>%20Mikocord)](https://discord.gg/wyldhost) 
+[![Discord Presence](https://lanyard.cnrad.dev/api/786298938915422219?idleMessage=EzCord%20>%20Mikocord)](https://astroid.cc) 
 
 # 💫 About Me:
 Hey. I'm Yuray & Am a web developer. I'm currently working on a website with a friend. <br><br>
