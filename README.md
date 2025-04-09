@@ -1,5 +1,5 @@
 ## Yuray 🦋
-[![Discord Presence](https://api.deutscher775.de/presence/786298938915422219)](https://astroid.cc) 
+[![Discord Presence]([https://api.deutscher775.de/presence/786298938915422219](https://api.deutscher775.de/presence/786298938915422219))](https://astroid.cc) 
 
 # 💫 About Me:
 Hey. I'm Yuray & Am a web developer. I'm currently working on a website with a friend. <br><br>
